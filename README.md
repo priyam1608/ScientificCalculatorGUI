@@ -1,6 +1,6 @@
 # Java Scientific Calculator GUI Project
 
-![Calculator Demo](demo.png)
+![Calculator Demo](demo.jpg)
 
 ## Overview
 This Java project is a feature-rich scientific calculator with a Graphical User Interface (GUI). It offers an intuitive interface for performing complex mathematical calculations conveniently.
@@ -10,9 +10,10 @@ This Java project is a feature-rich scientific calculator with a Graphical User 
 - **Memory Functionality:** Store and recall values using memory buttons.
 
 ## Screenshots
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
-![Screenshot 3](screenshots/screenshot3.png)
+![Screenshot 1](off.jpg)
+![Screenshot 2](demo.jpg)
+![Screenshot 3](1.jpg)
+![Screenshot 4](2.jpg)
 
 ## Getting Started
 1. **Prerequisites:** Ensure you have Java installed on your system.
@@ -30,4 +31,4 @@ Contributions are welcome! If you have any ideas for improvement or find any bug
 This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
-- Special thanks to [LibraryX](https://github.com/libraryx) for the inspiration and guidance.
+- Special thanks to some youtube channels like codewithharry, telusko, codingWallah ,etc for the inspiration and guidance.
