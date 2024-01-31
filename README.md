@@ -10,10 +10,10 @@ This Java project is a feature-rich scientific calculator with a Graphical User 
 - **Memory Functionality:** Store and recall values using memory buttons.
 
 ## Screenshots
-![Screenshot 1](images/off.jpg)
-![Screenshot 2](images/demo.jpg)
-![Screenshot 3](images/1.jpg)
-![Screenshot 4](images/2.jpg)
+![Screenshot 1](images/off.png)
+![Screenshot 2](images/demo.png)
+![Screenshot 3](images/1.png)
+![Screenshot 4](images/2.png)
 
 ## Getting Started
 1. **Prerequisites:** Ensure you have Java installed on your system.
