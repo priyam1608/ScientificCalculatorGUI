@@ -17,7 +17,7 @@ This Java project is a feature-rich scientific calculator with a Graphical User 
 
 ## Getting Started
 1. **Prerequisites:** Ensure you have Java installed on your system.
-2. **Clone the Repository:** `git clone https://github.com/yourusername/java-scientific-calculator.git`
+2. **Clone the Repository:** `git clone https://github.com/priyam1608/java-scientific-calculator.git`
 3. **Build and Run:** Open the project in your favorite Java IDE and run the `Calculator.java` file.
 
 ## Usage
